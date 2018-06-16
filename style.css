@@ -1,0 +1,9 @@
+body{
+	background-color: pink;
+}
+
+.wrapper{
+	text-align: center;
+	font-family: Arial;
+	font-size: 100px; 
+}
